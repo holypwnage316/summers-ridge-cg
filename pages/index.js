@@ -7,7 +7,6 @@ export default function Home() {
         <div className="container">
             <Head>
                 <title>Summers Ridge CG</title>
-                <link rel="icon" href="/cr.png"/>
             </Head>
             <Navbar/>
             <main>

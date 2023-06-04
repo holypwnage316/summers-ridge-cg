@@ -6,7 +6,6 @@ export default function About() {
         <div className="container">
             <Head>
                 <title>About</title>
-                <link rel="icon" href="/cr.png"/>
             </Head>
             <Navbar/>
             <main>

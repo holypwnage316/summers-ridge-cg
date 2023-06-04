@@ -7,7 +7,6 @@ export default function Schedule() {
             <Navbar/>
             <Head>
                 <title>Summers Ridge CG Schedule</title>
-                <link rel="icon" href="/favicon.ico"/>
             </Head>
             <br/>
             <center>

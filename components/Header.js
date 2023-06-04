@@ -1,3 +1,3 @@
 export default function Header({ title }) {
-  return <h1 className="title">{title}</h1>
+  return <div><h1 className="title">{title}</h1><link rel="icon" href="/cr.png"/></div>
 }
