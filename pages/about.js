@@ -1,17 +1,18 @@
 import Head from 'next/head'
-import Header from '@components/Header'
 import Navbar from '../components/Navbar';
 
-export default function Home() {
+export default function About() {
     return (
         <div className="container">
             <Head>
-                <title>Summers Ridge CG</title>
+                <title>About</title>
                 <link rel="icon" href="/cr.png"/>
             </Head>
             <Navbar/>
             <main>
-                <Header title="Welcome to Summers Ridge Community Group Home Page"/>
+              TBD
+              {/* <h1>General</h1>
+              <h2>What to Expect</h2> */}
             </main>
         </div>
     )
